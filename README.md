@@ -14,7 +14,7 @@
 
 <div align="center">  
  <a href = "mailto:gabriel.thmg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-batemarque-8a3273206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/gabriel-batemarque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
   ### Main skills:
