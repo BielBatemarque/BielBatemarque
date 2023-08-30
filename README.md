@@ -24,8 +24,8 @@
 ![Next.js](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -38,8 +38,8 @@
   
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp; 
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
