@@ -33,6 +33,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
   
 
 ### Other Knowledge:
